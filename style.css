@@ -1,0 +1,19 @@
+*{
+   margin: 0;
+   padding: 0;
+   background-color: #d90429;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.introdução {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.habilidades {
+    font-size: 15px;
+}
+
+.redes img {
+    width: 30px;
+}
